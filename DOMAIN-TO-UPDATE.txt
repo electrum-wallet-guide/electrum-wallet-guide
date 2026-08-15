@@ -1,0 +1,4 @@
+CURRENT CANONICAL DOMAIN:
+https://electrum-wallet-guide.onrender.com
+
+If Render gives you a different URL, send it to me and I can regenerate every SEO URL.

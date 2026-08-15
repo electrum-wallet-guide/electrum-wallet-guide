@@ -1,0 +1,24 @@
+GOOGLE SEARCH CONSOLE — AFTER DEPLOY
+
+1. Deploy this repository on Render.
+2. Confirm the final Render URL.
+3. If the final URL is NOT:
+   https://electrum-wallet-guide.onrender.com
+   update all canonical URLs in the HTML files plus robots.txt, sitemap.xml and sitemap.txt.
+4. In Search Console, add the final site as a URL-prefix property.
+5. Choose HTML file verification.
+6. Download Google's exact verification HTML file.
+7. Upload that exact file to the ROOT of this repository on GitHub.
+8. Wait for Render to redeploy and confirm the file opens at:
+   https://YOUR-DOMAIN/googleXXXXXXXXXXXX.html
+9. Click Verify in Search Console.
+10. Submit /sitemap.xml.
+11. After the sitemap is processed, inspect the priority URLs.
+
+Priority URLs:
+- /
+- /electrum/
+- /electrum-wallet/
+- /electrum-download/
+- /electrum-app/
+- /electrum-security/

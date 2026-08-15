@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://electrum-wallet-guide.onrender.com/sitemap.xml
